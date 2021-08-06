@@ -1,0 +1,2 @@
+# Recording-Sound-and-Spectral-Analysis-in-Python
+Sound spectral analysis using the fast Fourier transformation technique was used to characterize the frequency spectrum of the recorded sound. This technique can be used to evaluate the filter properties of the normal and consolidated lung.  Therefore to understand how the frequency spectrum works here we will only study how to Record a sound from the device and plot its frequency spectrum.
